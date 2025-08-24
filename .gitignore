@@ -1,0 +1,8 @@
+# secrets and runtime
+.env
+*.session
+telegramfxcopier_state.json
+telegramfxcopier_trades.csv
+__pycache__/
+*.pyc
+.DS_Store
